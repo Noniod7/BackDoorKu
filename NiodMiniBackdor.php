@@ -54,7 +54,7 @@ border-radius:5px;
 </head>
 <body>
 <br>
-<center><img src="http://tools.niod-tech.com/hackedbynoniod7.png" width="250px" height="250px"></center>
+<center><img src="https://cukimay-cyber-team.my.id/img/CukimayCyberTeam.ico" width="250px" height="250px"></center>
 <h2><center><font color="#00FFFF"><\> MINI BACKDOOR <\></font></center></h2>
 <table width="900" border="0" cellpadding="3" cellspacing="1" align="center">
 <tr><td><font color="white">Path :</font> ';
@@ -867,7 +867,7 @@ echo '</center></td>
 echo '</table>
 </div>';
 }
-echo '<br><br><center><font color="#00FFFF"> © 2020 - Cukimay Cyber Team - <b><a href="https://zone-pedia.tk"><font color="Darkred">NiodTech</font></a><br><br></center>
+echo '<br><br><center><font color="#00FFFF"> © 2020 - Cukimay Cyber Team - <b><a href="https://cukimay-cyber-team.my.id"><font color="Darkred">Noniod7</font></a><br><br></center>
 </body>
 </html>';
 function perms($file){
